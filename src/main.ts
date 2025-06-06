@@ -42,7 +42,6 @@ function noSearchDefaultPageRender() {
         <hr />
         <br />
         <p>This is a fork of <a href="https://github.com/t3dotgg/unduck" target="_blank">Unduck</a> </p>
-        <p>If you have any issues, please <a href="https://github.com/R5dan/unduck/discussions" target="_blank">report them here</a></p>
 
         <div class="url-container"> 
           <input
@@ -56,10 +55,6 @@ function noSearchDefaultPageRender() {
           </button>
         </div>
       </div>
-      <footer class="footer">
-<a href="https://unduck.link" target="_blank">unduck</a>        •
-        <a href="https://github.com/r5dan/quickduck" target="_blank">github</a>
-      </footer>
     </div>
   `;
 
@@ -160,8 +155,6 @@ function runErrors(errors: Error[]) {
       </div>
       <footer class="footer">
         <a href="https://github.com/t3dotgg/unduck" target="_blank">unduck</a>
-        •
-        <a href="https://github.com/r5dan/quickduck" target="_blank">github</a>
         •
         <a href="#" target="_blank">placeholder</a>
       </footer>
